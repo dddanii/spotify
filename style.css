@@ -1,15 +1,17 @@
-body{
-    background-color: black;
-}
 
 .lefty{
     left: 300px;
+    background-color: black;
+    width: 570px;
+    height: 1000px;
+    margin: 10px;
 }
 
 img{    
     width: 300px;
     height: 89.92px;
     margin-top: 40px;
+    margin-left: 100px;
 }
 
 .face{
@@ -21,6 +23,9 @@ img{
      margin-top: 10px;
      font-family: 'Franklin Gothic';
      letter-spacing: 2px;
+     position: absolute;
+     left: 120px;
+
     }
 
 .espacio{
@@ -32,6 +37,8 @@ form{
     height: 767px;
     font-family: 'Franklin Gothic';
     letter-spacing: 2px;
+    position: absolute;
+    left: 50px;
 }
 
 li{
@@ -87,7 +94,7 @@ input{
 .brh{
     margin: 100px;
     position: absolute;
-    right: 950px;
+    left: 185px;
     top: 400px;
     bottom: 50px;
 }
@@ -102,7 +109,7 @@ input{
     font-size: 10.5px;
     position: absolute;
     top: 590px;
-    right: 930px;
+    right: 890px;
     letter-spacing: 2px;
 }
 
@@ -114,10 +121,11 @@ input{
    font-family: 'Franklin Gothic';
    position: absolute;
    top: 900px;
+   left: 40px;
 }
 
 a{
-    color: white;
+    color: black;
     font-size: 15px;
     font-family: 'Franklin Gothic';
 }
