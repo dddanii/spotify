@@ -1,0 +1,123 @@
+body{
+    background-color: black;
+}
+
+.lefty{
+    left: 300px;
+}
+
+img{    
+    width: 300px;
+    height: 89.92px;
+    margin-top: 40px;
+}
+
+.face{
+     background-color: #3B5998;
+     height: 40px;
+     width: 387px;
+     border-radius: 20px;
+     color: white;
+     margin-top: 10px;
+     font-family: 'Franklin Gothic';
+     letter-spacing: 2px;
+    }
+
+.espacio{
+    padding: 50px;
+}
+
+form{
+    width: 635px;
+    height: 767px;
+    font-family: 'Franklin Gothic';
+    letter-spacing: 2px;
+}
+
+li{
+    padding: 20px;
+}
+
+p{
+    color: white;
+    position: absolute;
+    right: 70px;
+    top: 0px;
+    font-family: 'Franklin Gothic';
+    letter-spacing: 2px;
+}
+
+.botoncito{
+    background: #1DB954;
+    border-radius: 25px;
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    left: 180px;
+}
+
+.bolita{
+    background-color: white;
+    border-radius: 25px;
+    width: 20px;
+    height: 20px;
+}
+
+#espacio{
+    padding: 50px;
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    top: 490px
+}
+
+.lefo{
+    left: 300px;
+    top: 10px;
+    
+}
+
+input{
+    background-color: #484545;
+    width: 387px;
+    height: 42px;
+    
+}
+
+.brh{
+    margin: 100px;
+    position: absolute;
+    right: 950px;
+    top: 400px;
+    bottom: 50px;
+}
+
+.veide{
+    background-color: #1DB954;
+    height: 30px;
+    width: 187px;
+    border-radius: 20px;
+    color: white;
+    margin-top: 10px;
+    font-size: 10.5px;
+    position: absolute;
+    top: 590px;
+    right: 930px;
+    letter-spacing: 2px;
+}
+
+.botom{
+   letter-spacing: 2px;
+   word-spacing: 12px;
+   color: white;
+   font-size: 15px;
+   font-family: 'Franklin Gothic';
+   position: absolute;
+   top: 900px;
+}
+
+a{
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic';
+}
